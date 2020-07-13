@@ -1,0 +1,2 @@
+include ':simple', ':fragmentation', ':fragmentation_core'
+rootProject.name='Compot'
